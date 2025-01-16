@@ -462,6 +462,8 @@ section.callaction {
 	text-decoration: none;
 }
 
+p { margin:0;}
+ul {margin-top:0;}
 
 /* Bottom
 ==================================== */
