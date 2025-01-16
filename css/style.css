@@ -17,6 +17,7 @@ body {
 	color:#656565;
 	p {margin:0;}
 	ul {margin-top:0;}
+	h {margin-bottom:0;}
 }
 
 a:active {
@@ -32,7 +33,7 @@ h1,h2, h3, h4, h5, h6 {
 	font-weight:700;
 	line-height:1.1em;
 	color:#333;
-	margin-bottom: 20px;
+	margin-bottom: 0px;
 }
  
 .container {
@@ -262,7 +263,7 @@ header ul.nav li ul li ul {
   content:none;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-color: #37A691;  
+color: #3CCDD1;  
 /* background: #52C2AD; */
 /* border: 1px solid #3AA994 !important; */
 }
