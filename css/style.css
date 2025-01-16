@@ -15,6 +15,8 @@ body {
 	font-weight:300;
 	line-height:1.6em;
 	color:#656565;
+	p {margin:0;}
+	ul {margin-top:0;}
 }
 
 a:active {
@@ -462,8 +464,6 @@ section.callaction {
 	text-decoration: none;
 }
 
-p { margin:0;}
-ul {margin-top:0;}
 
 /* Bottom
 ==================================== */
