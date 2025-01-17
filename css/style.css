@@ -506,7 +506,7 @@ section.callaction {
 ==================================== */
 
 #inner-headline{
-	background: #0E987E;
+	background: #3CCDD1;
 	position:relative;
 	margin:0;
 	padding:0;
@@ -983,7 +983,7 @@ ul.link-list li{
 	list-style:none;
 }
 footer{
-background: #046E5A;
+background: #2FA0A3;
 }
 footer ul.link-list li a{
 	color:#fff;
