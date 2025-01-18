@@ -28,10 +28,11 @@ a:active {
 }
 
 .col-md-6{
-    width: 90px;
-    height: 90px;
-    margin: auto;    
-    display: block;
+	width: 90px;
+	height: 90px;
+	margin: auto;    
+	display: block;
+	text-align: center;
 }
 
 h1,h2, h3, h4, h5, h6 {
