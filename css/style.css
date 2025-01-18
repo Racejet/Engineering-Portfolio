@@ -36,7 +36,7 @@ h1,h2, h3, h4, h5, h6 {
 }
  
 .container {
-	padding:10px 10px 10px 10px;
+	padding:0px 20px 0px 20px;
 	position:relative;
 }
 
@@ -984,6 +984,7 @@ ul.link-list li{
 }
 footer{
 background: #3CCDD1;
+padding:10px 0 10px 0;
 }
 footer ul.link-list li a{
 	color:#fff;
