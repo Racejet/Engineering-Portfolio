@@ -40,6 +40,11 @@ h1,h2, h3, h4, h5, h6 {
 	position:relative;
 }
 
+.column {
+    float: center;
+    width: 50%;
+    }
+
 #wrapper{
 	width:100%;
 	margin:0;	
