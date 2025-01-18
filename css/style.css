@@ -984,7 +984,6 @@ ul.link-list li{
 }
 footer{
 background: #3CCDD1;
-padding:10px 0 10px 0;
 }
 footer ul.link-list li a{
 	color:#fff;
@@ -1646,7 +1645,7 @@ padding-top: 12px;
 	
 	footer .col-lg-1, footer .col-lg-2, footer .col-lg-3, footer .col-lg-4, footer .col-lg-5, footer .col-lg-6, 
 	footer .col-lg-7, footer .col-lg-8, footer .col-lg-9, footer .col-lg-10, footer .col-lg-11, footer .col-lg-12{
-		margin-bottom:20px;
+		margin-bottom:10px;
 	}
 
 	#sub-footer ul.social-network {
