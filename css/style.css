@@ -1642,7 +1642,10 @@ padding-top: 12px;
 		border-left:none;
 		padding:0 0 0 0;
 	}
-	
+
+	.col-md-4, col-md-5{
+		align-items: center;
+	}
 	
 	footer .col-lg-1, footer .col-lg-2, footer .col-lg-3, footer .col-lg-4, footer .col-lg-5, footer .col-lg-6, 
 	footer .col-lg-7, footer .col-lg-8, footer .col-lg-9, footer .col-lg-10, footer .col-lg-11, footer .col-lg-12{
