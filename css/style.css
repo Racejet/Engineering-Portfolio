@@ -1007,8 +1007,7 @@ h4.heading {
 
 .widgetheading {
 	width:100%;
-
-	padding:0;
+	padding:10px 0px 10px 0px;
 }
 
 #bottom .widgetheading {
