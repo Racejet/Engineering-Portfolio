@@ -527,12 +527,15 @@ section.callaction {
 }
 
 #portfolio-section{
+	width:400px;
 	background: #ACE3FF;
-	position:relative;
+	position:center;
 	margin:auto;
 	padding:20px;
 	color: #000000;
 	text-align:center;
+	border-style: solid;
+	border-color: #B6C7D6;
 	border-radius: 10px;
 }
 
