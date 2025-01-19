@@ -19,10 +19,6 @@ body {
 	ul {margin-top:0;}
 }
 
-.p-left{
-	text-align:left;
-}
-
 a:active {
 	outline:0;
 }
@@ -589,17 +585,6 @@ width: 85px;
 height: 85px;
 background: rgb(255, 255, 255);
 padding-top: 22px;
-}
-.featured_content h3 a{
-font-size: 1.1em;
-color: #555;
-text-decoration: none;
-}
-.featured_content p {
-color: #656565;
-font-size: 14px;
-line-height: 1.5em;
-margin-bottom: 1em;
 }
 
 .feature_btn {
