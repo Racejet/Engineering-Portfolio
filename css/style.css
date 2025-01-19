@@ -529,15 +529,13 @@ section.callaction {
 #portfolio-section{
 	width:800px;
 	height:100px
-	background-color:#ACE3FF;
+	background-color:#A7E4FF;
 	position:center;
-	color: #000000;
 	margin:auto;
 	padding:0;
 	border-style: solid;
 	border-color: #B6C7D6;
 	border-radius: 10px;
-	text-align:center;
 }
 
 /* --- breadcrumbs --- */
