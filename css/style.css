@@ -532,7 +532,7 @@ section.callaction {
 	background: #ACE3FF;
 	position:center;
 	color: #000000;
-	
+	margin:auto;
 	border-style: solid;
 	border-color: #B6C7D6;
 	border-radius: 10px;
