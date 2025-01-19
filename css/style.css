@@ -526,6 +526,20 @@ section.callaction {
 	margin:20px 0 0 0;
 }
 
+#portfolio-section{
+	background: #ACE3FF;
+	position:relative;
+	margin:0;
+	padding:0;
+	color: #000000;
+}
+
+#portfolio-section .portfolio-section h3 {
+	color: #000000
+	margin:20px 0 0 0;
+	text-align:center;
+}
+
 /* --- breadcrumbs --- */
 #inner-headline ul.breadcrumb {
 	margin:30px 0 0;
