@@ -533,9 +533,11 @@ section.callaction {
 	position:center;
 	color: #000000;
 	margin:auto;
+	padding:0;
 	border-style: solid;
 	border-color: #B6C7D6;
 	border-radius: 10px;
+	text-align:center;
 }
 
 /* --- breadcrumbs --- */
