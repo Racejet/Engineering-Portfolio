@@ -19,6 +19,10 @@ body {
 	ul {margin-top:0;}
 }
 
+.p-left{
+	text-align:left;
+}
+
 a:active {
 	outline:0;
 }
