@@ -527,7 +527,8 @@ section.callaction {
 }
 
 #portfolio-section{
-	width:400px;
+	width:800px;
+	height:100px
 	background: #ACE3FF;
 	position:center;
 	margin:auto;
