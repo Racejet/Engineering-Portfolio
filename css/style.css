@@ -513,7 +513,7 @@ section.callaction {
 ==================================== */
 
 #inner-headline{
-	background: #3CCDD1;
+	background:#3CCDD1;
 	position:relative;
 	margin:0;
 	padding:0;
@@ -529,7 +529,7 @@ section.callaction {
 #portfolio-section{
 	width:800px;
 	height:100px
-	background: #ACE3FF;
+	background:#ACE3FF;
 	position:center;
 	color: #000000;
 	margin:auto;
